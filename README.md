@@ -1,4 +1,4 @@
-# Online mulitiplay dodge client
+# Online mulitiplay dodge server
 
 ![dodge_client](https://github.com/user-attachments/assets/21edf026-abec-4120-9e0a-c329c218be30)
 
